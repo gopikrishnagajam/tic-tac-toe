@@ -22,6 +22,6 @@ A simple and fun Tic Tac Toe game built using **React**, styled with playful ast
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-react.git
+git clone https://github.com/gopikrishnagajam/tic-tac-toe-react.git
 cd tic-tac-toe-react
 npm install
