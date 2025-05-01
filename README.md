@@ -2,7 +2,7 @@
 
 A simple and fun Tic Tac Toe game built using **React**, styled with playful astronaut graphics, and featuring win detection and a restart option.
 
-![Game Screenshot](./7fd0adb3-026e-4f7e-aafa-c5ecb8ec8c3e.png)
+![Game Screenshot](public/game.png)
 
 ## 🚀 Features
 
